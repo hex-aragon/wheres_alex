@@ -1,0 +1,1 @@
+snarkos developer deploy "yong_pieces_v01.aleo" --private-key $1 --query "https://api.explorer.aleo.org/v1" --broadcast "https://api.explorer.aleo.org/v1/testnet3/transaction/broadcast" --priority-fee 16000000
